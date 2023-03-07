@@ -1,6 +1,6 @@
 from generator import *
 import random
-
+Hi
 class TrainSystem:
 
     def __init__(self, T, L, P, gen: Generator):
